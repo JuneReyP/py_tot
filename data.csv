@@ -1,0 +1,6 @@
+Name,Age,Gender,Salary,Department
+John,28,Male,50000,IT
+Smith,32,Female,60000,HR
+Pet,,Male,45000,IT
+Emily,25,Female,52000,Marketing
+Micheal,35,Male,,IT

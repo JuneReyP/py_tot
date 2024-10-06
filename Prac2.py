@@ -1,0 +1,5 @@
+userInput1 = input("Enter string: ").lower()
+userInput2 = input("Enter word to be replaced: ").lower()
+userInput3 = input("Enter new word: ").lower()
+result = userInput1.replace(userInput2, userInput3)
+print(f"Result: {result.title()}")
